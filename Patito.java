@@ -5,6 +5,8 @@ public class Patito {
 		// TODO Auto-generated method stub
 		System.out.println("Esta es la Primer version de Patito");
 		System.out.println("1");
+		System.out.println("NUEVA VERSION AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA");
+
 	}
 
 }
